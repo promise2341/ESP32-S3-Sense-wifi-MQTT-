@@ -1,0 +1,23 @@
+# ESP32-S3 Sense 相机MQTT项目 - Windows端依赖包
+
+# MQTT客户端库
+paho-mqtt==1.6.1
+
+# 图像处理库（可选，用于图片预览和处理）
+Pillow==10.0.0
+
+# 基础库（Python自带，无需安装）
+# - tkinter (GUI界面)
+# - hashlib (MD5计算)
+# - base64 (Base64编码)
+# - json (JSON处理)
+# - threading (多线程)
+# - datetime (时间处理)
+# - os (操作系统接口)
+# - time (时间相关)
+# - subprocess (子进程)
+# - webbrowser (浏览器操作)
+
+# 系统要求
+# - Python 3.7+
+# - Windows 10/11 (推荐) 或 Linux/MacOS 
