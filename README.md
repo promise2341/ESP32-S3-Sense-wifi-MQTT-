@@ -42,12 +42,12 @@ WIFI_PASSWORD = "你的WiFi密码"
 
 ### MQTT配置
 ```python
-MQTT_BROKER = "emqx.cidatahub.com"  # MQTT服务器地址
-MQTT_PORT = 26701                   # MQTT端口
+MQTT_BROKER = "****.com"  # MQTT服务器地址
+MQTT_PORT = 5000                   # MQTT端口
 MQTT_CLIENT_ID = "wifitest"         # 设备ID
-MQTT_USERNAME = "nolan"             # MQTT用户名
-MQTT_PASSWORD = "opeioe"            # MQTT密码
-MQTT_TOPIC = "esp32/camera"         # MQTT主题
+MQTT_USERNAME = "***"             # MQTT用户名
+MQTT_PASSWORD = "***"            # MQTT密码
+MQTT_TOPIC = "***"         # MQTT主题
 ```
 
 ### 相机配置
