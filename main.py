@@ -6,12 +6,12 @@ import base64
 from camera import Camera, GrabMode, PixelFormat, FrameSize, GainCeiling
 
 # WiFi配置
-WIFI_SSID = "Bosstown7"
-WIFI_PASSWORD = "#1Bosttown"
+WIFI_SSID = "***"
+WIFI_PASSWORD = "****"
 
 # MQTT配置
-MQTT_BROKER = "emqx.fusiontree.com"
-MQTT_PORT = 26701
+MQTT_BROKER = "*****.com"
+MQTT_PORT = 5000
 MQTT_CLIENT_ID = "wifitest"
 MQTT_USERNAME = "nolan"
 MQTT_PASSWORD = "opeioe"
